@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using test101.Models;
 
@@ -10,9 +11,11 @@ using test101.Models;
 namespace test101.Migrations
 {
     [DbContext(typeof(EmpDBContext))]
-    partial class EmpDBContextModelSnapshot : ModelSnapshot
+    [Migration("20231026080849_kg")]
+    partial class kg
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

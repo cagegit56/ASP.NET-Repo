@@ -15,6 +15,11 @@ C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Microsoft.AI.EventCo
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Microsoft.AI.PerfCounterCollector.dll
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Microsoft.AI.WindowsServer.dll
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -46,6 +51,7 @@ C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Microsoft.SqlServer.
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Mono.TextTemplating.dll
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -96,8 +102,3 @@ C:\Users\User\source\repos\test101\test101\obj\Debug\net6.0\refint\test101.dll
 C:\Users\User\source\repos\test101\test101\obj\Debug\net6.0\test101.pdb
 C:\Users\User\source\repos\test101\test101\obj\Debug\net6.0\test101.genruntimeconfig.cache
 C:\Users\User\source\repos\test101\test101\obj\Debug\net6.0\ref\test101.dll
-C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\System.Web.Cors.dll
-C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\System.Net.Http.Formatting.dll
-C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\System.Web.Http.dll
-C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\System.Web.Http.Cors.dll
-C:\Users\User\source\repos\test101\test101\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

@@ -15,10 +15,12 @@ namespace test101.Models
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<Employee>().ToTable("Employee");
+            modelBuilder.Entity<User>().ToTable("users");
         }
 
 
         public DbSet<Employee> Employee { get; set; }
+        public DbSet<User> Users { get; set; }
 
 
     }

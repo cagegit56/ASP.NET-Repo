@@ -1,9 +1,11 @@
 using Microsoft.EntityFrameworkCore;
+
 using test101.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
 builder.Services.AddDbContext<EmpDBContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
